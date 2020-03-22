@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52601c83-e438-4531-9b53-aefab8275971" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGbeiZLO2HuMJTbPlKW4aXKHXG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="R:\openser\OSPanel\domains\platya\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="R:\openser\OSPanel\domains\platya\img\catalog" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52601c83-e438-4531-9b53-aefab8275971" name="Default Changelist" comment="" />
+      <created>1584468474834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584468474834</updated>
+      <workItem from="1584468476117" duration="1785000" />
+      <workItem from="1584470276724" duration="2157000" />
+      <workItem from="1584473822381" duration="1188000" />
+      <workItem from="1584559594426" duration="1815000" />
+      <workItem from="1584563065097" duration="1798000" />
+      <workItem from="1584564877230" duration="1646000" />
+      <workItem from="1584778812419" duration="20000" />
+      <workItem from="1584778857073" duration="717000" />
+      <workItem from="1584779774341" duration="32000" />
+      <workItem from="1584780144303" duration="18802000" />
+      <workItem from="1584874499671" duration="7868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="149" key="#Deployment" timestamp="1584882574437">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="149" key="#Deployment/0.0.1280.984@0.0.1280.984" timestamp="1584882574437" />
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1584882352038">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584882352038" />
+    <state x="502" y="390" key="WebDeployment.AddServerDialog.v.1" timestamp="1584882530742">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="502" y="390" key="WebDeployment.AddServerDialog.v.1/0.0.1280.984@0.0.1280.984" timestamp="1584882530742" />
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1584874544530">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584874544530" />
+    <state x="272" y="37" width="736" height="909" key="find.popup" timestamp="1584879925064">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="272" y="37" width="736" height="909" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1584879925064" />
+    <state x="296" y="221" key="run.anything.popup" timestamp="1584878958046">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="221" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1584878958046" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1584790730793">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1584790730793" />
+  </component>
+</project>
